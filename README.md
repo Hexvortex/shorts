@@ -76,7 +76,9 @@ This is an example of how to list things you need to use the software and how to
 2. create and activate python virtualenv
    
 3. Enter API keys in api_keys.txt file
-   ![api_keys](https://github.com/Hexvortex/shorts/assets/66158651/74d7b620-9a2d-4808-b4ad-e1ddc0f2c54e)
+   
+   ![api_keys(3)](https://github.com/Hexvortex/shorts/assets/66158651/336f8985-9ae9-4c93-90b2-e5a7842c1d2a)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
