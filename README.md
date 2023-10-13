@@ -44,16 +44,8 @@ Imagine generating and uploading engaging YouTube Shorts without having to spend
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* Python: Forms the robust backbone, managing video generation, editing, and uploading.
+* ChatGPT: Infuses life into the videos by generating articulate and enthralling narrations.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
