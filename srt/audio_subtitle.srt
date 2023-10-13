@@ -1,0 +1,40 @@
+1
+0:00:00,000 --> 0:00:04,000
+The solar system is a fascinating cosmic neighborhood that we call home.
+
+2
+0:00:04,000 --> 0:00:13,000
+It includes a central star, the sun, and eight planets, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
+
+3
+0:00:14,000 --> 0:00:19,000
+These planets, along with their moons, asteroids, and comets, orbit the sun.
+
+4
+0:00:20,000 --> 0:00:24,000
+Each one offers unique characteristics and mysteries waiting to be explored.
+
+5
+0:00:25,000 --> 0:00:30,000
+The sun, a powerful ball of hot gas, provides light and energy to all the planets.
+
+6
+0:00:31,000 --> 0:00:36,000
+Earth, our planet, is known for its diverse life forms and stunning landscapes.
+
+7
+0:00:36,000 --> 0:00:40,000
+Mars captures attention with its potential for harboring life.
+
+8
+0:00:41,000 --> 0:00:45,000
+Jupiter, the largest planet, fascinates with its mesmerizing storms.
+
+9
+0:00:46,000 --> 0:00:51,000
+The solar system acts as a reminder of the vastness and complexity of our universe,
+
+10
+0:00:51,000 --> 0:00:53,000
+leaving us in awe of its countless wonders.
+

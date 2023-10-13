@@ -1,0 +1,5 @@
+[API_KEYS]
+CHATGPT_API_KEY=xxxxxxxxxxxxxx
+AUTHORIZATION=play.ht_key_here
+X_USER_ID=play.ht_user_id_here
+PEXELS_API_KEY=yyyyyyyyyyyyyyyyyyyyyyyyy
