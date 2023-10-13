@@ -38,7 +38,7 @@
 
 Imagine generating and uploading engaging YouTube Shorts without having to spend countless hours in video editing software. Our tool automates the video creation process from start to finish. Just provide a list of topics via a CSV file and let the tool do the rest: create, generate, and upload each video to YouTube - all while you relax, sip your coffee, and watch your content library grow!
 
-Check out my youtube channel example videos : https://www.youtube.com/channel/UC7zOHk1gj7ElntRNhp3XxmA
+Check out my youtube channel for example videos : https://www.youtube.com/channel/UC7zOHk1gj7ElntRNhp3XxmA
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
