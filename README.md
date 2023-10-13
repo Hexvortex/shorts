@@ -99,3 +99,13 @@ This is an example of how to list things you need to use the software and how to
 4. If needed google will ask for authentication to youtube channel please procced with it to upload video to youtube .This is one time requirement.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## Aim & Purpose
+
+Our tool is not merely a video generation utility; it is a vessel that carries your message to the world without demanding technical expertise in video creation from you. It's designed to:
+
+  1. Enhance Productivity: Minimize time and effort spent on video production and channel management.
+  2. Consistent Content Deployment: Maintain a consistent content upload schedule on YouTube, enhancing viewer engagement and channel growth.
+  3. Accessible to All: Be it a content creator, a marketer, or an entrepreneur - anyone can use this tool to enhance their digital presence.
+  4. Limitless Scalability: No matter if you have 10 topics or 1000, effortlessly create and manage a vast array of content.
+
