@@ -95,6 +95,11 @@ This is an example of how to list things you need to use the software and how to
    
     ![topic](https://github.com/Hexvortex/shorts/assets/66158651/88278e87-37fd-4449-ae9f-daef1df41935)
 
+2. Open powershell in current working directroy and type
+   ```bash
+    python3 .\algo.py
+   ```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
