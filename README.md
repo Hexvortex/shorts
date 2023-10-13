@@ -67,20 +67,19 @@ This is an example of how to list things you need to use the software and how to
 * ChatGPT API key
 * Play.ht API key (https://play.ht/)
 * pexels.com API Key (https://www.pexels.com/)
+* Youtube API key (follow this tutorial to grab api key https://www.youtube.com/watch?v=eq-mjehACe4 )
 
 ### Installation
 
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Hexvortex/shorts.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+2. create and activate python virtualenv
+   
+3. Install Dependencies 
+   ```python
+   pip install -r requirements.txt
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
