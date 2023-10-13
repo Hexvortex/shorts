@@ -81,7 +81,7 @@ This is an example of how to list things you need to use the software and how to
    
 4. Open client_secrets.json file and enter Youtube video upload API key
 
-  ![client_secrets](https://github.com/Hexvortex/shorts/assets/66158651/1fbe2997-6c69-4f8e-a106-10509b559164)
+    ![client_secrets](https://github.com/Hexvortex/shorts/assets/66158651/1fbe2997-6c69-4f8e-a106-10509b559164)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
