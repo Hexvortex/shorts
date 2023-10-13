@@ -95,11 +95,13 @@ This is an example of how to list things you need to use the software and how to
    
     ![topic](https://github.com/Hexvortex/shorts/assets/66158651/88278e87-37fd-4449-ae9f-daef1df41935)
 
-2. Open powershell in current working directroy and type
+2. Open powershell in current working directory and type
    ```bash
     python3 .\algo.py
    ```
+3. Enter video generation and upload durations between each topics
 
+4. If needed google will ask for authentication to youtube channel please procced with it to upload video to youtube .This is one time requirement.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
