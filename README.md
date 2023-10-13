@@ -91,9 +91,10 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1. Open topic.csv file with notepad or any other tool and enter your topic as shown in image below.
+   
+    ![topic](https://github.com/Hexvortex/shorts/assets/66158651/88278e87-37fd-4449-ae9f-daef1df41935)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
