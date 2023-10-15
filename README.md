@@ -109,3 +109,5 @@ Our tool is not merely a video generation utility; it is a vessel that carries y
   3. Accessible to All: Be it a content creator, a marketer, or an entrepreneur - anyone can use this tool to enhance their digital presence.
   4. Limitless Scalability: No matter if you have 10 topics or 1000, effortlessly create and manage a vast array of content.
 
+                                   #### Handcrafted  with ❤️ Bharat
+
